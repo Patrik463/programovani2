@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "001_Operace_s_jednorozmernym_polem/1.0.0": {
+        "runtime": {
+          "001_Operace_s_jednorozmernym_polem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "001_Operace_s_jednorozmernym_polem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

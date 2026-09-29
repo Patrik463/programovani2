@@ -1,0 +1,16 @@
+C:\Users\malin\Desktop\škola2\programovani\002_Matice\002_Matice\bin\Debug\net10.0\002_Matice.exe
+C:\Users\malin\Desktop\škola2\programovani\002_Matice\002_Matice\bin\Debug\net10.0\002_Matice.deps.json
+C:\Users\malin\Desktop\škola2\programovani\002_Matice\002_Matice\bin\Debug\net10.0\002_Matice.runtimeconfig.json
+C:\Users\malin\Desktop\škola2\programovani\002_Matice\002_Matice\bin\Debug\net10.0\002_Matice.dll
+C:\Users\malin\Desktop\škola2\programovani\002_Matice\002_Matice\bin\Debug\net10.0\002_Matice.pdb
+C:\Users\malin\Desktop\škola2\programovani\002_Matice\002_Matice\obj\Debug\net10.0\002_Matice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malin\Desktop\škola2\programovani\002_Matice\002_Matice\obj\Debug\net10.0\002_Matice.AssemblyInfoInputs.cache
+C:\Users\malin\Desktop\škola2\programovani\002_Matice\002_Matice\obj\Debug\net10.0\002_Matice.AssemblyInfo.cs
+C:\Users\malin\Desktop\škola2\programovani\002_Matice\002_Matice\obj\Debug\net10.0\002_Matice.csproj.CoreCompileInputs.cache
+C:\Users\malin\Desktop\škola2\programovani\002_Matice\002_Matice\obj\Debug\net10.0\002_Matice.sourcelink.json
+C:\Users\malin\Desktop\škola2\programovani\002_Matice\002_Matice\obj\Debug\net10.0\002_Matice.dll
+C:\Users\malin\Desktop\škola2\programovani\002_Matice\002_Matice\obj\Debug\net10.0\refint\002_Matice.dll
+C:\Users\malin\Desktop\škola2\programovani\002_Matice\002_Matice\obj\Debug\net10.0\002_Matice.pdb
+C:\Users\malin\Desktop\škola2\programovani\002_Matice\002_Matice\obj\Debug\net10.0\002_Matice.genruntimeconfig.cache
+C:\Users\malin\Desktop\škola2\programovani\002_Matice\002_Matice\obj\Debug\net10.0\ref\002_Matice.dll
+C:\Users\malin\Desktop\škola2\programovani\002_Matice\002_Matice\obj\Debug\net10.0\002_Matice.csproj.Up2Date
